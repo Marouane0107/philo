@@ -145,7 +145,6 @@ philo/
 ├── monitor.c            # Thread monitoring death/eat counts (if separate)
 └── Makefile             # Build configuration
 ```
-*(You can update this section with your specific file names and their roles.)*
 
 ## 🧪 Testing
 
@@ -211,4 +210,4 @@ Error messages should be clear and printed to the standard error stream.
 ---
 
 *Developed as part of the 42 School "Philosophers" project.*
-*Last Updated: May 2023
+*Last Updated: May 2023*
